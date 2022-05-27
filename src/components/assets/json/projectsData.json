@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "To Do List Web App",
+    "imgSrc": "images/todolistapp.png",
+    "imgAlt": "js todo list app",
+    "code": "https://github.com/GANESANGIDON/ToDoList",
+    "link": "https://ganesangidon.github.io/ToDoList/"
+  },
+  {
+    "id": "2",
+    "title": "Js Image Slider",
+    "imgSrc": "images/js-image-slider.png",
+    "imgAlt": "js image slider",
+    "code": "https://github.com/GANESANGIDON/js-imageSlider",
+    "link": "https://ganesangidon.github.io/js-imageSlider/"
+  },
+  {
+    "id": "3",
+    "title": "Netflix Landingpage Clone",
+    "imgSrc": "images/netflix-homepage-clone.png",
+    "imgAlt": "netflix landing page clone",
+    "code": "https://github.com/GANESANGIDON/Netflix-clone",
+    "link": "https://ganesangidon.github.io/Netflix-clone/"
+  },
+  {
+    "id": "4",
+    "title": "Temperature Converter",
+    "imgSrc": "images/temperature converter.png",
+    "imgAlt": "temperature converter",
+    "code": "https://github.com/GANESANGIDON/Temperature-Converter",
+    "link": "https://ganesangidon.github.io/Temperature-Converter/"
+  },
+  {
+    "id": "5",
+    "title": "Calculator",
+    "imgSrc": "images/Scientific Calculator.png",
+    "imgAlt": "calculator",
+    "code": "https://github.com/GANESANGIDON/calculator",
+    "link": "https://ganesangidon.github.io/calculator/"
+  },
+  {
+    "id": "6",
+    "title": "Single Page Website",
+    "imgSrc": "images/TravelXP.png",
+    "imgAlt": "travel site",
+    "code": "https://github.com/GANESANGIDON/TravelXP",
+    "link": "https://ganesangidon.github.io/TravelXP/"
+  },
+  {
+    "id": "7",
+    "title": "Tribute Page",
+    "imgSrc": "images/tributepage.png",
+    "imgAlt": "tribute page",
+    "code": "https://github.com/GANESANGIDON/Tribute-page",
+    "link": "https://ganesangidon.github.io/Tribute-page/"
+  },
+  {
+    "id": "8",
+    "title": "Create React App",
+    "imgSrc": "images/create react app.png",
+    "imgAlt": "create react app",
+    "code": "https://github.com/GANESANGIDON/Lgmvip-task2",
+    "link": "https://reactapi-ganesangidon.herokuapp.com/"
+  },
+  {
+    "id": "9",
+    "title": "Marklist Management System",
+    "imgSrc": "images/students Marklist.png",
+    "imgAlt": "Marklist management system",
+    "code": "https://github.com/GANESANGIDON/LGMVIP-task3"
+  }
+]

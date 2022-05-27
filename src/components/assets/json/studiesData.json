@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Bachelor of Computer Science",
+    "year": "2018 - 2021",
+    "details": "I completed my 3 years Bachelor degree in Agurchand Manmull Jain College at meenambakkam with a score of",
+    "score": "84%"
+  },
+  {
+    "id": "2",
+    "title": "Higher Secondary",
+    "year": "2017 - 2018",
+    "details": "I completed my Higher Secondary in Springfield Matriculation Higher Secondary School at K.K.Nagar with a score of",
+    "score": "76%"
+  },
+  {
+    "id": "3",
+    "title": "SSLC",
+    "year": "2015 - 2016",
+    "details": "I completed my 1 year SSLC in Springfield Matriculation Higher Secondary School School at K.K.Nagar with a score of",
+    "score": "86%"
+  }
+]

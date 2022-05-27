@@ -1,0 +1,45 @@
+
+.slick-slider{
+  position: relative;
+  padding-top: 20px;
+}
+
+.slick-dots{
+  bottom: -30px;
+}
+
+.slick-dots li{
+  margin: 0px 1px;
+}
+
+.slick-dots li button:before{
+  font-size: 7px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #ee223d;
+}
+
+.slick-next, .slick-prev{
+  position: absolute;
+  top: 5px;
+}
+
+.slick-prev{
+  left: calc(100% - 70px);
+}
+
+.slick-next{
+  right: 15px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #f52334;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+  background-color: rgb(231, 159, 171); 
+  border-radius: 10px;
+}
